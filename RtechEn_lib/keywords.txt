@@ -1,0 +1,22 @@
+###########################################
+# Syntax Coloring Map For RTECHLIB
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+RTECHEN	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+RTECHEN KEYWORD2
+begin KEYWORD2
+encryption KEYWORD2
+checking KEYWORD2
+getEnc KEYWORD2
+printEnc KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
