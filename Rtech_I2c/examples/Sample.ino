@@ -2,6 +2,7 @@
 
 /*
     Scan masing masing address i2c pada modul
+    Jumper A0/A1/A2 untuk mengganti address
 */
 RTECHI2 modul_1(0x3F); //Ganti dengan address modul 1
 RTECHI2 modul_2(0x3B); //Ganti dengan address modul 1
