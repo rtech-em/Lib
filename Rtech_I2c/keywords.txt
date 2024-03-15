@@ -1,0 +1,18 @@
+keywords.txt
+###########################################
+# Syntax Coloring Map For PCF8574-library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+RTECHI2	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+begin	KEYWORD2
+pinMode	KEYWORD2
+digitalWrite	KEYWORD2
